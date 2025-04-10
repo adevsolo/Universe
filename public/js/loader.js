@@ -1,9 +1,9 @@
 let messages = [
     "Just a moment while we set everything up...",
-    "Inspo from Space and Plexile Arcade",
-    "Thank you to everyone who helped me make this, yk who u are :D",
+    "Inspo from Frogies Arcade",
+    "call solo daddy",
     "Thanks for using the site!",
-    "Stack Overflow best girl :3",
+    "doglover is on the spectrum",
     "Join the discord! (plz :D)",
     "To suggest a game, make a suggestion in the discord!",
     "If somethings down, make a bug report in the discord!",

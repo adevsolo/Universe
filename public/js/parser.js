@@ -53,9 +53,9 @@ function devInfo(json){
     let w = window.open('');
     w.document.write(`
     <style>*{font-family: monospace;}</style>
-    <b>This is literally only here for random dev info I need, if you got here by accident just close the tab and move on. -Jobi</b>
+    <b>This is literally only here for random dev info I need, if you got here by accident just close the tab and move on. -Solo</b>
     <br>
-    <p>If your another dev genuinely using this page and have a recommendation for something to be added, dm me on discord :) 'Jobi#8313' or '_jobi_'</p>
+    <p>If your another dev genuinely using this page and have a recommendation for something to be added, dm me on discord :) '@subtosolo' or '@duckys.lol'</p>
     <h1>Dev Info:</h1>
     <p>Dev info for /js/parser.js</p>
     <br>
